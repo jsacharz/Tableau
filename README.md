@@ -2,7 +2,7 @@
 
 ## This repository contains:
 
-1. RaedMe file
+1. README file
 
 2. Analysis.txt file with interpretations of visualized results
 
