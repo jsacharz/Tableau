@@ -1,0 +1,69 @@
+	
+CitiBike System Data Analysis
+
+
+Covered Phenomenon:
+
+	
+
+	(a)	[Age Dashboard] Looking at Ages of CitiBike users in details: 
+- How were the Age Groups affected in the month of May (most optimal weather conditions for bike rides) in year of 2019 (pre-pandemic) and 2020 (pandemic)?
+- What Ages of CitiBike Users are accounted for faithful ‘Subscribers’ and ‘Casual’ riders?
+- What is is the ratio of Female to Male in ages groups between 10-90?
+- On average what duration are achieved by each of the Age Groups?
+- what areas are most popular for each of the Age Groups?
+(b)	Station Dashboard] Stations Popularity and times of the weekdays
+-	Map the most popular Starting and Ending Station for CitiBike in May of 2019 and 2020, including the average duration of the ride,
+-	Find the top 35 Starting station in that period,
+-	How weekdays shape the trend of CitiBike usage for these stations?
+-	How popular are CitiBikes for females and male through the week?
+-	Which days of the week ‘Subscribers’ and ‘Casual’ users ride CitiBikes most frequently?
+
+
+
+	
+
+	Dashboard: [Age] Findings:
+
+**The map layer colour scale represents USA census data of the median age within zip code in NYC**
+	
+
+	The map shows the starting stations for CitiBike User and are categorized to age groups. Most Users are between Ages of >10 to 50, with the highest peak for 30-40yo, this observation has not changed for both 2019 and 2020 year. The number and the duration of the ride for older users (60+) declined during Pandemic year.
+
+Male population stands for significantly higher number of CitiBike users compared to females and this is true for each of the age groups. The difference of this ratio is more subtle for ages between 10-30 but becomes more evident in older groups. 
+
+
+Interestingly, the group of 30yo members is mostly abundant, however it is the 50yo group who spend the longest time (in min) riding the bike, that group also represents the biggest age group of ‘Casual’ users, suggesting that they are not committed to CitiBike service on regular basis.
+
+Interestingly, the number of ‘Subscribers’ increased in pandemic year, suggesting that public gave up public transportation to individual riding. 
+
+
+
+Dashboard: [Stations] Findings:
+
+**Both maps are layered with USA Census data mapping the number of population accounted per zip code in NYC and the metropolitan transport boarders**
+
+The number of both Start and End Point station increased in 2020. It is not clear whether NYC population in 2020 pandemic started to use existing bike docks due to transport limitations or the increase in bike network is a result of planned growth of the company. 
+
+The longest lasting duration of bike rides is centered around Manhattan and Brooklyn. 
+
+The popularity of starting station depends on the day of the week, with 12 Ave & 40 St being the top at the weekends, and Pershing Square North during the working weekdays. That is however true for 2019 pre-pandemic May. In 2020 there were changes in that popularity and 1 Ave & E68 was mostly used starting station.
+
+The numbers of both women and men using CitiBike are evenly distributed over the weekdays, expect for 2019 with higher number of users at the weekend, probably this flux was caused by tourists, who were ban in NYC in 2020. 
+
+‘Subscribers’ used CitiBikes in 2019 with highest peaks during the weekend but in 2020 that shifted to working weekdays. Could be translated to getting to work and then limiting being outside as a precaution. Similar trend is registered for ‘Casual users.
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
